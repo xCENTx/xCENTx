@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 - 👋 Hi, I’m @xCENTx
 - 👀 I’m interested in ... Game Modding & Development
 - 🌱 I’m currently learning ... C# , MIPS
