@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xCENTx
 - 👀 I’m interested in ... Game Modding & Development
-- 🌱 I’m currently learning ... C# , MIPS
-- 💞️ I’m looking to collaborate on ... Unreal Engine 4 Game (Third Person Shooter)
-- 📫 How to reach me ... DISCORD: CENT#0001
+- 🌱 I’m currently learning ... C# and Basic C++
+- 💞️ I’m looking to collaborate on ... Projects that involve modding games
+- 📫 How to reach me ... DISCORD: xCENTx#0001
 - ✨ Discord Server ... https://discord.gg/XzAF9JMPkh
 <!---
 xCENTx/xCENTx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
