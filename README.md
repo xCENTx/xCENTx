@@ -2,6 +2,8 @@ Hi , things are changing around here. The following links should, hopefully, hel
 
 Repositories: https://github.com/NightFyre
 
+Compiled Sources: https://www.reddit.com/r/NightFyreCreations
+
 YouTube: https://www.youtube.com/channel/UCi1ukdgWPkoM4MbKCg7mowg (100 subs and we get a personalized url)
 
 
