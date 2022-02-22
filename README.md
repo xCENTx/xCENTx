@@ -1,5 +1,5 @@
-YouTube: https://www.YouTube.com/NightFyreTV
-Featured Sources: https://github.com/NightFyre
+YouTube: https://www.YouTube.com/NightFyreTV  
+Featured Sources: https://github.com/NightFyre  
 Private Subreddit: https://www.reddit.com/r/NightFyreCreations
 
 <!---
