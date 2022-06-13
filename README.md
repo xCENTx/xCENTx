@@ -1,7 +1,6 @@
-[YouTube](https://www.YouTube.com/NightFyreTV)
-[Featured Sources](https://github.com/NightFyre)
-[Private Subreddit](https://www.reddit.com/r/NightFyreCreations)
-[Website](https://www.nightfyre.tk)
+[Website](https://www.nightfyre.tk)   
+[YouTube](https://www.YouTube.com/NightFyreTV)  
+[Featured Sources](https://github.com/NightFyre)  
 
 <!---
 xCENTx/xCENTx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
