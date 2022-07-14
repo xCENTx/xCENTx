@@ -1,4 +1,3 @@
-[Organization Page](https://github.com/NightFyre)   
 [Website](https://www.nightfyre.xyz)   
 [YouTube](https://www.YouTube.com/NightFyreTV)  
 [Featured Sources](https://github.com/NightFyre)  
